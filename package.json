@@ -4,6 +4,7 @@
   "description": "Twitter Archive",
   "main": "index.js",
   "scripts": {
+    "start": "npx http-server -d -p 9999 & npx open-cli http://localhost:9999",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

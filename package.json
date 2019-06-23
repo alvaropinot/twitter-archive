@@ -1,0 +1,25 @@
+{
+  "name": "twitter-archive",
+  "version": "1.0.0",
+  "description": "Twitter Archive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvaropinot/twitter-archive.git"
+  },
+  "keywords": [
+    "twitter",
+    "archive",
+    "alvaropinot",
+    "backup"
+  ],
+  "author": "Alvaro Pinot <alvaro@neatnait.com> (http://github.com/alvaropinot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaropinot/twitter-archive/issues"
+  },
+  "homepage": "https://github.com/alvaropinot/twitter-archive#readme"
+}
